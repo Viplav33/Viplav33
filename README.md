@@ -54,6 +54,6 @@ B8 --> J2[Collaboration between Design and Construction]
 B8 --> J3[Minimize Design-Related Issues]
 
 B9 --> K1[Strengthen Quality Control]
-B9 --> K2[Mistake-Proofing (Poka-Yoke)]
+B9 --> K2[Mistake-Proofing Poka-Yoke]
 B9 --> K3["Get it Right the First Time" Culture]
 ```
